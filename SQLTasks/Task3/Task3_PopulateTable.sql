@@ -1,0 +1,7 @@
+DELETE FROM dbo.Dates
+
+INSERT INTO dbo.Dates(Id, Dt) VALUES(1, '2021-01-01')
+INSERT INTO dbo.Dates(Id, Dt) VALUES(1, '2021-01-10')
+INSERT INTO dbo.Dates(Id, Dt) VALUES(1, '2021-01-30')
+INSERT INTO dbo.Dates(Id, Dt) VALUES(2, '2021-01-15')
+INSERT INTO dbo.Dates(Id, Dt) VALUES(2, '2021-01-30')

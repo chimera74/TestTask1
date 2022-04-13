@@ -1,0 +1,10 @@
+﻿/TestCase1/TestCase1.csproj
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+/.idea/
+/TestCase1/bin/
+/TestCase1/obj/
+/TestCase1/wwwroot/lib/
